@@ -1,0 +1,9 @@
+c:\users\w80043458\documents\visual studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\bin\Debug\HuaweiAttendance.exe.config
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.csprojResolveAssemblyReference.cache
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.Properties.Resources.resources
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.csproj.GenerateResource.Cache
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.frmMain.resources
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\bin\Debug\HuaweiAttendance.exe
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\bin\Debug\HuaweiAttendance.pdb
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.exe
+C:\Users\w80043458\Documents\Visual Studio 2013\Projects\HuaweiAttendance\HuaweiAttendance\obj\Debug\HuaweiAttendance.pdb
